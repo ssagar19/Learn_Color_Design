@@ -41,15 +41,18 @@ There are a few different options for setting colors in CSS that we covered in L
 h1 {
     color: Yellow; /*Keyword */
 }
+
 h2 {
     color: #8FBC8F; /* Hex Code */
 }
 h3 {
     color: rgb(23, 45, 23); /* RGB*/
 }
+
 p {
     color: hsla(34, 100%, 50%, 0.1); /* HSLA*/
 }
+
 When thinking like a designer, # HSLA is the preferred syntax for setting colors. Why?
 
 The CSS color keywords only give us a few options.
