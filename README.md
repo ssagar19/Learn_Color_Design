@@ -53,7 +53,7 @@ p {
     color: hsla(34, 100%, 50%, 0.1); /* HSLA*/
 }
 
-When thinking like a designer, # HSLA is the preferred syntax for setting colors. Why?
+When thinking like a designer, # HSLA (its a effective way to represent colors in css)is the preferred syntax for setting colors. Why?
 
 The CSS color keywords only give us a few options.
 Hex Codes and RGB values cannot be intuitively adjusted. For example, you get feedback on your design that 
